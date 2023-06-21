@@ -7,20 +7,12 @@
 <a href="https://linkedin.com/in/evgeniy-erokhin" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
-
 
 ### Glad to see you here!  
 I'm a rookie backend developer who is taking the first steps in IT. At the moment I have mastered the Python programming language, as well as Django, and Django Rest Framework and have implemented several training projects that can be viewed in my repository  
-  
-
 <br/>  
 
-
 </td><td valign="top" width="50%">
-
-
 
 </td></tr></table>  
 
