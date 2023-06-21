@@ -63,6 +63,3 @@ I'm a rookie backend developer who is taking the first steps in IT. At the momen
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
