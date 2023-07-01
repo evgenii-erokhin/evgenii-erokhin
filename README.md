@@ -24,8 +24,10 @@ I'm a rookie backend developer who is taking the first steps in IT. At the momen
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
 <a href="https://www.django-rest-framework.org/" target="_blank"><img style="margin: 10px" src="https://www.django-rest-framework.org/img/logo.png" alt="Nginx" height="50" /></a>  
 <a href ="https://https://www.sqlite.org/index.html/" target="_blank"><img style="margin: 10px" src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite" height="50" /></a>
+<a href ="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="PostgreSQL" height="50" /></a> 
 <a href ="https://gunicorn.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-icon.svg" alt="Gunicorn" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://docs.docker.com/compose/" target="_blank"><img style="margin: 10px" src="https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png" alt="Docker compose" height="50" /></a>
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
