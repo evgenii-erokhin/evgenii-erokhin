@@ -44,11 +44,15 @@ I'm a rookie backend developer who is taking the first steps in IT. At the momen
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=evgenii-erokhin&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/evgenii-erokhin"><img src="https://github-readme-stats.vercel.app/api?username=evgenii-erokhin&show_icons=true&hide=&count_private=true&title_color=444e59&text_color=444e59&icon_color=444e59&bg_color=ffffff&hide_border=true&show_icons=true" alt="evgenii-erokhin's GitHub stats" /></a>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgenii-erokhin&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/evgenii-erokhin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=evgenii-erokhin&stroke=444e59&background=ffffff&ring=444e59&fire=444e59&currStreakNum=444e59&currStreakLabel=444e59&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
 
 </td></tr></table>  
 
