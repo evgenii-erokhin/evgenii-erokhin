@@ -6,7 +6,14 @@
 </a>
 <a href="https://linkedin.com/in/evgeniy-erokhin" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://t.me/juandart" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white />
+</a>
+<a href="mailto:evgeniierokhin@proton.me?">
+<img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white />
+</a>
+
 
 ### Glad to see you here!  
 I'm a rookie backend developer who is taking the first steps in IT. At the moment I have mastered the Python programming language, as well as Django, and Django Rest Framework and have implemented several training projects that can be viewed in my repository  
