@@ -50,7 +50,8 @@ I'm a rookie backend developer who is taking the first steps in IT. At the momen
 
 </div>  
 
-<br/>  
+<br/>
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
