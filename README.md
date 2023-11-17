@@ -10,16 +10,8 @@
 <img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white />
 </a>
 
-
 ### Glad to see you here!  
 I'm a rookie backend developer who is taking the first steps in IT. At the moment I have mastered the Python programming language, as well as Django, and Django Rest Framework and have implemented several training projects that can be viewed in my repository  
-<br/>  
-
-</td><td valign="top" width="50%">
-
-</td></tr></table>  
-
-<br/>  
 
 ## Languages and Tools  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -44,36 +36,15 @@ I'm a rookie backend developer who is taking the first steps in IT. At the momen
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
-</div>  
-
-<br/>
+## Badge
+![Codewars badge](https://www.codewars.com/users/Evgeniy_E/badges/large)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/evgenii-erokhin"><img src="https://github-readme-stats.vercel.app/api?username=evgenii-erokhin&show_icons=true&hide=&count_private=true&title_color=444e59&text_color=444e59&icon_color=444e59&bg_color=ffffff&hide_border=true&show_icons=true" alt="evgenii-erokhin's GitHub stats" /></a>
-
-</td><td valign="top" width="50%">
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/evgenii-erokhin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=evgenii-erokhin&stroke=444e59&background=ffffff&ring=444e59&fire=444e59&currStreakNum=444e59&currStreakLabel=444e59&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=evgenii-erokhin&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
