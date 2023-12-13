@@ -9,6 +9,9 @@
 <a href="mailto:evgeniierokhin@proton.me?">
 <img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white />
 </a>
+<a href="mailto:evgeniy_erokhin@outlook.com?">
+<img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/>
+</a>
 
 ### Glad to see you here!  
 I'm a rookie backend developer who is taking the first steps in IT. At the moment I have mastered the Python programming language, as well as Django, and Django Rest Framework and have implemented several training projects that can be viewed in my repository  
