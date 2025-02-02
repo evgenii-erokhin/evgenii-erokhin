@@ -1,14 +1,14 @@
 ## Hey 👋, I'm Evgenii!  
   
-<a href="https://linkedin.com/in/evgeniy-erokhin" target="_blank">
+<!--<a href="https://linkedin.com/in/evgeniy-erokhin" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://t.me/juandart" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white />
 </a>
-<a href="mailto:evgeniierokhin@proton.me?">
+<!-- <a href="mailto:evgeniierokhin@proton.me?">
 <img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white />
-</a>
+</a> -->
 <a href="mailto:evgeniy_erokhin@outlook.com?">
 <img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/>
 </a>
