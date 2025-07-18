@@ -14,7 +14,13 @@
 </a>
 
 ### Glad to see you here!  
-I'm a rookie backend developer who is taking the first steps in IT. At the moment I have mastered the Python programming language, as well as Django, and Django Rest Framework and have implemented several training projects that can be viewed in my repository  
+👋 Hi! I'm a DevOps engineer with a backend background in Python and Django. I started in development and gradually moved into infrastructure, automation, and monitoring.
+
+🔧 I work with tools like Docker, Ansible, Prometheus, OpenSearch, Gitlab Ci and GitHub Actions, and I’m currently deepening my skills in Kubernetes.
+
+💻 I enjoy building automation pipelines, deploying microservices, writing infrastructure-as-code, and sometimes creating APIs and Telegram bots with Python.
+
+📌 Check out my repos for hands-on projects, from weather bots to monitoring stacks. Always open to feedback and collaboration.
 
 ## Languages and Tools  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
